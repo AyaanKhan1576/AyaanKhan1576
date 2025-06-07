@@ -1,7 +1,7 @@
-👋 About Me
+# 👋 About Me
 Hi there! I’m Ayaan Khan, a passionate Computer Science student from FAST NUCES. I have a strong interest in software development, parallel computing, and machine learning. I'm particularly skilled in C, C++, Java, Python, and JavaScript.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayaan-khan-b7ba11325/) 
 
 # 💻 Tech Stack:
