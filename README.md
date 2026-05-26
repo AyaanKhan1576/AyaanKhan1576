@@ -33,7 +33,6 @@ Currently focused on:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -72,16 +71,6 @@ An OMORI-inspired interactive portfolio built using React, Phaser, Supabase, and
 
 ### Event Booking Platform
 Backend-focused cloud-native application using Node.js, FastAPI, Docker, PostgreSQL, and deployment automation workflows for scalable service orchestration.
-
----
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AyaanKhan1576&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=AyaanKhan1576&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyaanKhan1576&theme=dark&hide_border=true&layout=compact)
 
 ---
 
