@@ -2,7 +2,7 @@
 
 I’m an AI & Software Engineer interested in building intelligent systems that are practical, scalable, and production ready.
 
-Currently pursuing a BS in Computer Science at FAST NUCES (Class of 2026), I’ve worked on projects involving LLMs, RAG pipelines, AI agents, fullstack applications, cloud infrastructure, and real-time ML systems.
+Graduate of BS in Computer Science at FAST NUCES (Class of 2026), I’ve worked on projects involving LLMs, RAG pipelines, AI agents, fullstack applications, cloud infrastructure, and real-time ML systems.
 
 I primarily work with Python, FastAPI, and modern AI frameworks, with a strong foundation in C/C++. My experience also includes Docker, Kubernetes, CI/CD workflows, data pipelines, and backend system design.
 
